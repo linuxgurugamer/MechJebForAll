@@ -1,0 +1,31 @@
+{
+  "NAME": "KerbalSlingShotter",
+  "URL": "https://raw.githubusercontent.com/linuxgurugamer/MechJebForAll/master/MechJebForAll.version",
+  "DOWNLOAD": "http://spacedock.info/mod/1854/MechJebForAll",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "MechJebForAll"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 4,
+    "PATCH": 99
+  }
+}
+
