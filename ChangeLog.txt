@@ -2,5 +2,5 @@
 	Adopted by LGG
 	Updated for 1.3+ (KER had changed)
 
-1.3.0.1
+1.3.0.2
 	Add NEEDS on patches
