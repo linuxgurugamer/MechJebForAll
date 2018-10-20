@@ -7,3 +7,4 @@
 
 1.3.0.3
 	Version bump for new location
+	Add KoS computer on all command modules
