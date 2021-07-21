@@ -13,3 +13,6 @@
 
 1.3.0.6
 	Version bump for 1.7
+
+1.3.0.7
+	prevents kOSForAll to install CPUs on parts which already have them and reduces the ridiculous size.
